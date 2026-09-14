@@ -13,7 +13,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  JITSI_REPO: ghcr.io/jitsi
+  JITSI_REPO: ghcr.io/jitsi-lab
 
 jobs:
   gh-release:
