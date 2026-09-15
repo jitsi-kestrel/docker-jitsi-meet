@@ -11,7 +11,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  JITSI_REPO: ghcr.io/jitsi-lab
+  JITSI_REPO: ghcr.io/jitsi-kestrel
 
 jobs:
   version:
